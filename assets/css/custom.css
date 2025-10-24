@@ -1,0 +1,18 @@
+@media (min-width: 66.5rem) {
+  .main {
+    max-width: none;
+  }
+
+  .main-content-wrap {
+    max-width: 100rem;
+  }
+
+  .side-bar {
+    width: calc((100% - 66.5rem) / 5 + 16.5rem);
+    min-width: 16.5rem;
+  }
+
+  .side-bar+.main {
+    margin-left: max(16.5rem, calc((100% - 66.5rem) / 5 + 16.5rem));
+  }
+}
