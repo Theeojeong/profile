@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Cybereason
-parent: Work Experience
+title: LangGraph
+parent: Agents
 nav_order: 1
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Algomatic
-parent: Work Experience
+parent: Agents
 nav_order: 6
 ---
 
