@@ -8,5 +8,6 @@ layout: default
 
 | Key      | Value                           |
 | -------- | ------------------------------- |
-| Japanese | Native proficiency |
-| English  | Professional working proficiency | 
+| Korean | Native proficiency |
+| Chinese  | Advanced      | 
+| English  | Intermediate | 

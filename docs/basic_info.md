@@ -8,9 +8,9 @@ layout: default
 
 | Key         | Value                    |
 | ----------- | ------------------------ |
-| Name        | Soma Utsumi              |
-| Handle name | soma00333                |
-| Mail        | soma03432303@gmail.com   |
-| Location    | Tokyo, Japan             |
+| Name        | Jeong Jaehyeon        |
+| Handle name | Theojeong            |
+| Mail        | wogusto13@gmail.com   |
+| Location    | Seoul, South Korea            |
 | Gender      | Male                     |
-| Race        | Japanese                 | 
+| Race        | Korean                 | 
