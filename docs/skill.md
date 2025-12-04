@@ -6,17 +6,24 @@ layout: default
 
 # Skill
 
-| Name               | Year | Experience                                                                                             |
-| ------------------ | ---- | ------------------------------------------------------------------------------------------------------ |
-| AWS                | 1+   |                                   |
-| MySQL              | 1+  |                                                     |
-| Python             | 1+  |       |
-| Docker           | 1+  |       |
-| CI/CD           | 1+  |       |
-| AI/LLM             | 1+  |                                               |
-| FastAPI           | 1-3  |                                                  |
-| Langgraph         | 1-3  |                                                               |
-| OpenAI Agents SDK        | 1-3  |                                                            |
-| Google ADK       | 1-3  |                                                               |
-| CrewAI      | 1-3  |                                                                |
-| n8n        | 1-3  |                                                              |
+| Name              | Level        |
+| ----------------- | ------------ |
+| Python            | Intermediate |
+| AI/LLM            | Intermediate |
+| Langgraph         | Intermediate |
+| LangChain         | Intermediate |
+| OpenAI Agents SDK | Intermediate |
+| AWS               | Intermediate |
+| RAG               | Intermediate |
+| Google ADK        | Intermediate |
+| FastAPI           | Intermediate |
+| MySQL             | Intermediate |
+| PostgreSQL        | Intermediate |
+| Docker            | Intermediate |
+| GCP               | Beginner     |
+| Redis             | Beginner     |
+| MongoDB           | Beginner     |
+| Kubernetes        | Beginner     |
+| Github Actions    | Beginner     |
+| n8n               | Beginner     |
+| CrewAI            | Beginner     |
